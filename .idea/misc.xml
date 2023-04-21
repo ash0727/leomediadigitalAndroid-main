@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroApps/LEO Digital/Workspace/leomediadigital/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/AndroApps/LEO Digital/Workspace/leomediadigital/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroApps/LEO Digital/Workspace/leomediadigital/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+        <entry key="..\:/Rutuja/LeoMedia/leomediadigitalAndroid-main/leomediadigitalAndroid-main/app/src/main/res/layout/activity_upcomin_star.xml" value="0.13125" />
+        <entry key="..\:/Rutuja/LeoMedia/leomediadigitalAndroid-main/leomediadigitalAndroid-main/app/src/main/res/layout/contact.xml" value="0.1265625" />
+        <entry key="..\:/Rutuja/LeoMedia/leomediadigitalAndroid-main/leomediadigitalAndroid-main/app/src/main/res/layout/displaystar.xml" value="0.13125" />
+        <entry key="..\:/Rutuja/LeoMedia/leomediadigitalAndroid-main/leomediadigitalAndroid-main/app/src/main/res/layout/displayupcoming_star_adapter.xml" value="0.16354166666666667" />
+        <entry key="..\:/Rutuja/LeoMedia/leomediadigitalAndroid-main/leomediadigitalAndroid-main/app/src/main/res/layout/ourmedia_poartener_adapter.xml" value="0.14791666666666667" />
+        <entry key="..\:/Rutuja/LeoMedia/leomediadigitalAndroid-main/leomediadigitalAndroid-main/app/src/main/res/layout/photo_listing.xml" value="0.16354166666666667" />
+        <entry key="..\:/Rutuja/LeoMedia/leomediadigitalAndroid-main/leomediadigitalAndroid-main/app/src/main/res/layout/photolisting_adapter.xml" value="0.14791666666666667" />
+        <entry key="..\:/Rutuja/LeoMedia/leomediadigitalAndroid-main/leomediadigitalAndroid-main/app/src/main/res/layout/titlepdfview.xml" value="0.14791666666666667" />
+        <entry key="..\:/Rutuja/LeoMedia/leomediadigitalAndroid-main/leomediadigitalAndroid-main/app/src/main/res/layout/upcominstar_adapter.xml" value="0.13125" />
+        <entry key="..\:/Rutuja/LeoMedia/leomediadigitalAndroid-main/leomediadigitalAndroid-main/app/src/main/res/layout/video_activititadapter.xml" value="0.16354166666666667" />
+        <entry key="..\:/Rutuja/LeoMedia/leomediadigitalAndroid-main/leomediadigitalAndroid-main/app/src/main/res/layout/view_media.xml" value="0.16354166666666667" />
+        <entry key="..\:/Rutuja/LeoMedia/leomediadigitalAndroid-main/leomediadigitalAndroid-main/app/src/main/res/layout/view_upcomingstar.xml" value="0.16354166666666667" />
+        <entry key="..\:/Rutuja/LeoMedia/leomediadigitalAndroid-main/leomediadigitalAndroid-main/app/src/main/res/xml/internetpermi.xml" value="0.10572916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
